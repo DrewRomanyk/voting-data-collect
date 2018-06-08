@@ -1,0 +1,4 @@
+.vscode
+*.pickle
+secrets.py
+__pycache__
